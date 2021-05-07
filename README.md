@@ -5,3 +5,5 @@ Mini gerospatial project
   2. Add subway stations to map
 
 Use 'geospatial-python-workshop' as guide
+
+Final product in the 'maps' folder
